@@ -8,8 +8,8 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "google-auth-library": "git+https://github.com/mainephd/google-auth-library-nodejs.git#8fa9df5c7dc28118561dbbb096f3915feac9e06d",
-    "googleapis-common": "git+https://github.com/mainephd/nodejs-googleapis-common.git#de53fc5b9a3a52d92a1f1ac50faf8c377ab73c3b"
+    "google-auth-library": "git+https://github.com/mainephd/google-auth-library-nodejs.git#7599c669021dca8c68bce147af11a90853311b02",
+    "googleapis-common": "git+https://github.com/mainephd/nodejs-googleapis-common.git#4300bcaf1050f4c5c09d1f5b496938376be3633f"
   },
   "files": [
     "LICENSE",
