@@ -8,8 +8,8 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "google-auth-library": "^2.0.0",
-    "googleapis-common": "^0.4.0"
+    "google-auth-library": "git+https://github.com/mainephd/google-auth-library-nodejs.git#439321f9500c0773216d494ef93a12496658d190",
+    "googleapis-common": "git+https://github.com/mainephd/nodejs-googleapis-common.git#33720a2fd2c9558c4ca7ef14643711e03bfe0bca"
   },
   "files": [
     "LICENSE",
@@ -20,7 +20,7 @@
   ],
   "repository": "google/google-api-nodejs-client",
   "name": "googleapis",
-  "version": "35.0.0",
+  "version": "35.0.1",
   "scripts": {
     "pretest": "npm run compile",
     "prepare": "npm run compile",
@@ -70,7 +70,7 @@
     "@types/tmp": "^0.0.33",
     "@types/url-template": "^2.0.28",
     "assert-rejects": "^1.0.0",
-    "axios": "^0.18.0",
+    "axios": "git+https://github.com/axios/axios.git#75c8b3f146aaa8a71f7dca0263686fb1799f8f31",
     "codecov": "^3.0.2",
     "copyfiles": "^2.0.0",
     "eslint": "^5.6.0",
